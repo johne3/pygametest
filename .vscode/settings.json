@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
+        "FBDEV",
         "KEYDOWN",
+        "putenv",
         "pygame"
     ]
 }

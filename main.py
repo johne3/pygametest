@@ -1,4 +1,7 @@
 import pygame
+import os
+
+os.putenv('SDL_FBDEV', '/dev/fb1')
 
 pygame.init();
 screen = pygame.display.set_mode((320, 240))
